@@ -1,0 +1,23 @@
+.typed-cursor {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+#text{
+    color: #fb5200;
+}
+section{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../img.jpg");
+    color: #333;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.content{
+    margin-top: 30vh;
+    padding-left: 20vh;
+    text-align: center;
+}
